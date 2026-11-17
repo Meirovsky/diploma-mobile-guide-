@@ -42,16 +42,17 @@ The proposed mobile application solves this problem by providing an easy and int
 
 ## 6. UML Diagrams
 
-All project diagrams are located in the `docs/diagrams/` directory.
+### 1. Use Case Diagram
+![Use Case Diagram](docs/diagrams/01-usecase.png)
 
-| Diagram | Files |
-|---|---|
-| Use Case Diagram | [PNG](docs/diagrams/01-usecase.png) · [Draw.io](docs/diagrams/01-usecase.drawio) |
-| Class Diagram | [PNG](docs/diagrams/02-class.png) · [Draw.io](docs/diagrams/02-class.drawio) |
-| Activity Diagram | [PNG](docs/diagrams/03-activity.png) · [Draw.io](docs/diagrams/03-activity.drawio) |
-| Sequence Diagram | [PNG](docs/diagrams/04-sequence.png) · [Draw.io](docs/diagrams/04-sequence.drawio) |
+### 2. Class Diagram
+![Class Diagram](docs/diagrams/02-class.png)
 
-## 7. Repository Structure
+### 3. Activity Diagram
+![Activity Diagram](docs/diagrams/03-activity.png)
+
+### 4. Sequence Diagram
+![Sequence Diagram](docs/diagrams/04-sequence.png)
 
 ```text
 diploma-mobile-guide-/
